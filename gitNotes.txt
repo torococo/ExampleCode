@@ -1,0 +1,6 @@
+GitHub Commands{
+  [git init]{create git repo}
+  [git status]{displays which files git knows exist}
+  [git add [FILENAME/*]]{adds file to staging environment}
+  [git commit -m "MESSAGE"]{send file changes to version control}
+}
